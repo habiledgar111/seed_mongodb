@@ -1,13 +1,12 @@
-### library yang digunakan 
+# library yang digunakan 
 - mongoose
 - faker
 
 
 ## cara install library 
 
-mongoose \n
-
+mongoose /n
 npm install mongoose --save
 
-faker \n
+faker /n
 npm install @faker-js/faker --save-dev
