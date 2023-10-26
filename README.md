@@ -5,8 +5,8 @@
 
 ## cara install library 
 
-mongoose /n
+mongoose 
 npm install mongoose --save
 
-faker /n
+faker 
 npm install @faker-js/faker --save-dev
